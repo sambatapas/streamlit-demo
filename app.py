@@ -10,7 +10,7 @@ st.write("Welcome to the course repository for FAU's ISM 6427C class.")
 
 # Sidebar
 st.sidebar.header("Course Information")
-st.sidebar.write("Instructor: Dr. John Doe")
+st.sidebar.write("Instructor: Dr. Ernesto Lee")
 st.sidebar.write("Semester: Spring 2025")
 st.sidebar.write("Office Hours: By Appointment")
 
