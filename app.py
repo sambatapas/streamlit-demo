@@ -2,3 +2,4 @@ import streamlit as st
 
 st.title("My Streamlit App")
 st.write("Welcome to my first Streamlit app deployed on Streamlit Cloud! Lets goooooooo")
+st.write("I never thought I would have fun writing this again lol")
