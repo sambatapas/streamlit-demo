@@ -16,4 +16,4 @@ st.sidebar.write("Office Hours: By Appointment")
 
 # Main Content
 st.subheader("About This Class")
-st.write("This class focuses on practical applications of AI and data science tools, including the use of platforms like Streamlit for project deployment.")
+st.write("This class focuses on practical applications of AI and data science tools, including the use of platforms like Streamlit for project deployment. I'm excited for the rest of this semester!")
